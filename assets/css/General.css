@@ -1,0 +1,20 @@
+body {
+  background: url("../../assets/img/Technology-Wallpapers-Wide-Epic-Wallpaperz.png") repeat-y;
+}
+
+.navbar.navbar-light.navbar-expand-md {
+  background: #b8b8b8;
+}
+
+#navitems {
+  color: #111111;
+  font-family: Abel, sans-serif;
+  font-size: 25px;
+}
+
+.navbar-light .navbar-brand {
+  color: #111111;
+  font-family: Abel, sans-serif;
+  font-size: 30px;
+}
+
